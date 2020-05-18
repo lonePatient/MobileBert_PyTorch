@@ -1,0 +1,2 @@
+model_checkpoint_path: "mobilebert_variables.ckpt"
+all_model_checkpoint_paths: "mobilebert_variables.ckpt"
