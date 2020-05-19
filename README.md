@@ -50,9 +50,6 @@ Performance of MobileBert on GLUE benchmark results using a single-model setup o
 |  | Cola| Sst-2| Sts-b|
 | :------- | :---------: | :---------: | :---------: |
 | metric | matthews_corrcoef |accuracy | pearson |
-
-| model | Cola| Sst-2| Sts-b|
-| :------- | :---------: | :---------: |:---------: |
 | mobilebert | 0.5837 | 0.922 | 0.8839 |
 
 
